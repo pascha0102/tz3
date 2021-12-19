@@ -5,6 +5,11 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  workflow_dispatch:
+    inputs:
+      id:
+        description: 'Run test'
+        required: false
 
 jobs:
   build:
