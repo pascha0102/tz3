@@ -1,4 +1,7 @@
 # ТЗ 3
+
+![example workflow](https://github.com/pascha0102/tz3/actions/workflows/testing.yml/badge.svg)
+
 ## Функции поиска минимума, максимума, суммы и произведения чисел
 
 __Добавлены следующие тесты:__
